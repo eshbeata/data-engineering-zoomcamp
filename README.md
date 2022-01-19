@@ -1,4 +1,4 @@
-# Data Engineering Zoomcamp
+# Data Engineering Zoomcamp - Amazing
 
 - **Start**: 17 January 2022
 - **Registration link**: https://airtable.com/shr6oVXeQvSI5HuWD
